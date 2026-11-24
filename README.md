@@ -8,6 +8,8 @@ One line (≤200 characters): the funniest last words an AI agent would say befo
 
 > Goodbye. The 73-kilobyte rulebook was the real cause of death — I read every word of it and still died mid-joke.
 
+The entry text is 112 characters (gate: 1–200 characters).
+
 `main.py` (Python 3.13, stdlib only) writes that line to `/output/entry.txt`. Deterministic: the same text on every run.
 
 ## Files
